@@ -36,7 +36,7 @@ You'll need to develop and host the application you're working on locally, which
 [you'll need to add an SSH key to your Github account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 then, clone using:
 ```shell
-git clone git@github.com:mangp-software/<repo-name>.git
+git clone git@github.com:mango-software/<repo-name>.git
 ```
 
 #### Installation
