@@ -1,8 +1,5 @@
-<div style="display:flex; align-items: center; justify-content: center">
 <p><a href="https://laravel.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/50px-Laravel.svg.png" width="100px" alt="Laravel Logo"></a></p>
-<p style="font-size: 8rem">+</p>
 <p><a href="vuejs.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="100px" alt="Vue"></a></p></p>
-</div>
 
 ## About the laravel-vue scaffold
 
