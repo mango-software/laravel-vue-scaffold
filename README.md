@@ -1,5 +1,5 @@
-<p><a href="https://laravel.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/50px-Laravel.svg.png" width="100px" alt="Laravel Logo"></a></p>
-<p><a href="vuejs.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="100px" alt="Vue"></a></p></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width=300px" alt="Laravel Logo"></a></p>
+<p align="center"><a href="vuejs.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="100px" alt="Vue"></a></p></p>
 
 ## About the laravel-vue scaffold
 
